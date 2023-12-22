@@ -1,0 +1,92 @@
+main {
+    width: 960px;
+    margin: 0 auto;
+}
+.nav-bar {
+    display: flex;
+    justify-content: space-between;
+    font-size: small;
+    color: rgb(190, 183, 183);
+    align-items: center;
+    margin: 25px 0;
+}
+html,
+body {
+	height: 100%;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+	font-family: 'Bangers', cursive;
+	letter-spacing: 1px;
+	margin-bottom: 15px;
+    font-size: 15px;
+}
+.title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+}
+button {
+    width: 60%;
+    background-color: white;
+    color: black;
+    border: 1px solid #afa8a8;
+    height: 35px;
+    justify-content: center;
+}
+.title-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 60px 0px;
+}
+.header-title {
+    font-size: 80px;
+    text-align: center;
+}
+.first-body {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 0px;;
+}
+.second-pix {
+    width: 100%;
+    margin-bottom: 25px;
+}
+.second-body {
+    display: flex;
+    margin-bottom: 30px;
+}
+.third-body {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 0;
+}
+.third-bodyList{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 13px;
+}
+footer {
+    text-align: center;
+    font-size: 12px;
+    padding: 30px 0px;
+    padding-bottom: 100px;
+}
+.third-body-address {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+    justify-content: space-between;
+}
+a {
+    color: rgb(190, 183, 183);
+    text-decoration: none;
+}
