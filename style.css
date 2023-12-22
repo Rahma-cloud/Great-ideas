@@ -87,6 +87,12 @@ footer {
     justify-content: space-between;
 }
 a {
-    color: black;
+    color: rgb(190, 183, 183);
     text-decoration: none;
+}
+.third-body-address a {
+    color: black;
+}
+.third-bodyList a {
+    color: black;
 }
