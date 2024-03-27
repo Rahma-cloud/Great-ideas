@@ -1,1 +1,1 @@
-A demo to test my knowledge of felxbox usage
+A demo to test my knowledge of flexbox usage
